@@ -47,9 +47,6 @@ body{
     top:0;
     z-index: -300;
 }
-audio{
-    display: none;
-}
 nav button{
     background-color: #050505;
     color: #5AFF15;
